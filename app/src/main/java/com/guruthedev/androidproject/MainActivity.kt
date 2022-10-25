@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
         binding.ViewButton.setOnClickListener {
-            val intent = Intent(Intent.ACTION_VIEW)
+            val intent = Intent(Intent(this@MainActivity,Exoplayer::class.java))
             startActivity(intent)
         }
     }
