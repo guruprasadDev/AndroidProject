@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Project</string>
+    <string name="view_btn_txt">VIEW</string>
+    <string name="send_btn_txt">SEND</string>
+    <string name="plain_text_message">text/plain</string>
+    <string name="send_email">guruprasadofficial12@gmail.com</string>
+    <string name="subject_message">Happy Diwali</string>
+    <string name="text_message">A precious healthy and happy diwali Best Wishes</string>
+</resources>
