@@ -10,4 +10,8 @@
     <string name="media_url_mp4">https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4</string>
     <string name="myTestMp4">"https://download.blender.org/demo/movies/BBB/bbb_sunflower_1080p_30fps_normal.mp4"</string>
     <string name="exoplayer">Exoplayer</string>
+    <string name="show_message">Show Message</string>
+    <string name="login">Login</string>
+    <string name="authenticate_message">\"App can authenticate using biometrics. \"</string>
+    <string name="biometric_message">Biometric features are currently unavailable</string>
 </resources>

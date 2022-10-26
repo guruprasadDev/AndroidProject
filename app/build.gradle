@@ -46,4 +46,5 @@ dependencies {
     apply plugin: 'kotlin-android'
     apply plugin: 'kotlin-android-extensions'
     implementation 'com.google.android.exoplayer:exoplayer:2.18.1'
+    implementation "androidx.biometric:biometric-ktx:1.2.0-alpha04"
 }

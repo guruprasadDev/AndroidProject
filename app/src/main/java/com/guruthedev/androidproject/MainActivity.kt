@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
         binding.ViewButton.setOnClickListener {
-            val intent = Intent(Intent(this@MainActivity,Exoplayer::class.java))
+            val intent = Intent(Intent(this@MainActivity,BioMetricSensor::class.java))
             startActivity(intent)
         }
     }
